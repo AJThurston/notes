@@ -37,6 +37,7 @@
 - [BetterUp Blog](https://www.betterup.com/blog)
 - [Coursera Professional Development](https://www.coursera.org/articles/category/professional-development)
 - [Industrial/Organizational Solutions White Papers](https://iosolutions.com/white-papers/)
+- [Inc.com Hiring](https://www.inc.com/hiring
 - [Indeed LEAD](https://www.indeed.com/lead/talent-management)
 - [LinkedIn Talent Blog](https://www.linkedin.com/business/talent/blog)
 - [McKinsey & Co. Blog](https://www.mckinsey.com/about-us/new-at-mckinsey-blog)
@@ -55,12 +56,30 @@
 - [Industrial and Organizational Psychology: Perspectives and Practice (IOP)](http://my.siop.org/journal)
 - [The Industrial Organizational Psychologist (TIP)](http://my.siop.org/TIPdefault)
 - [The Journal Editors Corner - Science to Practice](https://www.thejournaleditorscorner.com/science-to-practice.html)
+
+## Databases
+- [Google Scholar](https://scholar.google.com/))
+- [PsycINFO (Accessed through institution)](https://www.apa.org/pubs/databases/psycinfo)
+- [Semantic Scholar (Offers TL;DR summaries for some articles)](https://www.semanticscholar.org/))
+- [Web of Science](https://www.webofknowledge.com/))
+## Datasets
+- [Kaggle human resources data set](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 ## eBooks
 - [A Scientific Method in Organizational Research (OpenStax)](https://openstax.org/books/organizational-behavior/pages/a-scientific-method-in-organizational-research)
 - [Organizational Behavior (OpenStax)](https://openstax.org/details/books/organizational-behavior)
 - [R for HR (Statistics in R)](https://rforhr.com/)
 ## Handbooks
+- Anderson, N., Ones, D. S., Sinangil, H. K., & Viswesvaran, C. (Eds.). (2001). _Handbook of industrial, work & organizational psychology. Sage.
+- Brown, K. G. (Ed.). (2017). _The Cambridge Handbook of Workplace Training and Employee Development_. Cambridge University Press
+- Dunnette, M. D., & Hough, L. M. (1992). _Handbook of industrial and organizational psychology. Consulting Psychologists Press.
+- Evers, A., Anderson, N., & Voskuijl, O. (Eds.). (2005). _The Blackwell Handbook of Personnel Selection_. Blackwell Publishing.
 - Farr, J. L., & Tippins, N. T. (Eds.). (2017). _Handbook of Employee Selection_ (2nd edition). Routledge.
+- Goldstein, H. W., Pulakos, E. D., Passmore, J., & Semedo, C. (Eds.). (2017). _The Wiley Blackwell Handbook of the Psychology of Recruitment, Selection and Employee Retention_. Wiley-Blackwell.
+- Ones, D. S., Anderson, N., Sinangil, H. K., & Viswesvaran, C. (Eds.). (2018). _The SAGE Handbook of Industrial, Work & Organizational Psychology_. SAGE Publications.
+- Ostroff, C., & Judge, T. A. (Eds.). (2007). Perspectives on Organizational Fit. Lawrence Erlbaum Associates.
+- Kozlowski, S. W. J. (Ed.). (2012). _The Oxford Handbook of Organizational Psychology_. Oxford University Press.
+- Quick, J. C., & Tetrick, L. E. (Eds.). (2011). Handbook of Occupational Health Psychology (2nd ed.). American Psychological Association.
+- Schmitt, N. (Ed.). (2012). _The Oxford Handbook of Personnel Assessment and Selection_. Oxford University Press
 - Zedeck, S. E. (2011). APA handbook of industrial and organizational psychology.
 ## Podcasts
 - [The I-O Podcast](http://www.siop.org/podcasts/)
@@ -71,15 +90,25 @@
 - [WorkLife with Adam Grant](https://www.ted.com/podcasts/worklife)
 ## Popular Press
 - Fast Company
-- Forbes
+- Forbes Insights
 - Fortune
 - Harvard Business Review
 - [MIT Sloan Management Review](https://sloanreview.mit.edu/)
 - [Science Magazine Careers](https://www.science.org/careers)
+## Scholarly AI Tools
+- [Allen Institute for AI (offers several tools)](https://allenai.org/demos)
+- [Connected Papers: Visually find similar research](https://www.connectedpapers.com)
+- [Paper Digest: Generates literature reviews and finds connected papers](http://www.paperdigest.org/)
+- [SMMRY: Summarizes text from paste, URL, or file](https://smmry.com/)
 ## White Papers
 - [SIOP White Paper Series](https://www.siop.org/Research-Publications/SIOP-White-Papers)
 - [SIOP-SHRM White Paper Series](https://www.siop.org/Research-Publications/SIOP-SHRM-White-Papers)
-## Textbooks
+## Textbooks - Graduate Level
+- Cascio, W. F., & Aguinis, H. (2018). Applied Psychology in Talent Management (8th ed.). SAGE Publications.
+- Jex, S. M., & Britt, T. W. (2014). Organizational psychology: A scientist-practitioner approach (3rd ed.). John Wiley & Sons, Inc.
+- Lowman, R. L. (Ed.). (2006). The Ethical Practice of Psychology in Organizations (2nd ed.). American Psychological Association.
+- Murphy, K. R. (1996). Individual Differences and Behavior in Organizations. Jossey-Bass.
+## Textbooks - Undergraduate Level
 - [Aamodt, M. G. (2022). _Industrial/organizational psychology: An applied approach_ (9th edition). Cengage Learning.](https://www.amazon.com/Industrial-Organizational-Psychology-Applied-Approach/dp/0357658345)
 - [Landy, F. J., & Conte, J. M. (2016). _Work in the 21st century: An introduction to industrial and organizational psychology_ (6th edition). John Wiley & Sons.](https://www.amazon.com/Work-21st-Century-Introduction-Organizational/dp/1119493412)
 - [Levy, P. (2019). _Industrial/organizational psychology_ (6th edition). Macmillan.](https://www.amazon.com/Industrial-Organizational-Psychology-Understanding-Workplace-dp-1319107397/dp/1319107397)
@@ -94,3 +123,4 @@
 - [SIOP Student Resources](https://www.siop.org/Membership/Students)
 - [Twitter: @SIOPtweets (Official account)](https://twitter.com/sioptweets)
 - [YouTube: SIOP (official)](https://www.youtube.com/user/SIOPofficial)
+- [Work Chronicles Comic](https://workchronicles.com/comics/)
