@@ -39,7 +39,7 @@
 - [BetterUp Blog](https://www.betterup.com/blog)
 - [Coursera Professional Development](https://www.coursera.org/articles/category/professional-development)
 - [Industrial/Organizational Solutions White Papers](https://iosolutions.com/white-papers/)
-- [Inc.com Hiring](https://www.inc.com/hiring
+- [Inc.com Hiring](https://www.inc.com/hiring)
 - [Indeed LEAD](https://www.indeed.com/lead/talent-management)
 - [LinkedIn Talent Blog](https://www.linkedin.com/business/talent/blog)
 - [McKinsey & Co. Blog](https://www.mckinsey.com/about-us/new-at-mckinsey-blog)
