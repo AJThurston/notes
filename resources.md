@@ -27,10 +27,12 @@
 - [Personality Project (Big Five Personality)](https://personality-project.org/)
 - [Synthetic Aperture Personality Assessment (SAPA)](https://www.sapa-project.org/)
 ## Associations
-- [Society for Industrial and Organizational Psychology (SIOP)](https://SIOP.org)
-- [Society for Human Resource Management (SHRM)](https://www.shrm.org/)
+
 - [Academy of Management](https://aom.org/)
 - [American Psychological Association](https://www.apa.org/)
+- [Society for Human Resource Management (SHRM)](https://www.shrm.org/)
+- [Society for Industrial and Organizational Psychology (SIOP)](https://SIOP.org)
+- [Society for Occupational Health Psychology](https://sohp-online.org/)
 - [Society for Military Psychology (APA Div. 19)](https://www.militarypsych.org/)
 - [International Military Testing Association (IMTA)](http://www.imta.info/home.aspx)
 ## Blogs - Corporate
