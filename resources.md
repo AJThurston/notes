@@ -11,17 +11,17 @@
 - [International Journal of Selection and Assessment (IJSA)](https://www.wiley.com/en-us/International+Journal+of+Selection+and+Assessment-p-9780JRNL60954)
 - [Journal of Applied Psychology (JAP)](http://www.apa.org/pubs/journals/apl/)
 - [Journal of Business and Psychology (JBP)](https://link.springer.com/journal/10869)
-- [Journal of Management](https://journals.sagepub.com/home/jom)
+- [Journal of Management (JOM)](https://journals.sagepub.com/home/jom)
 - [Journal of Occupational and Organizational Psychology (JOOP)](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2044-8325)
 - [Journal of Occupational Health Psychology (JOHP)](http://www.apa.org/pubs/journals/ocp/index.aspx)
 - [Journal of Organizational Behavior (JOB)](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1379)
 - [Journal of Vocational Behavior (JVB)](https://www.journals.elsevier.com/journal-of-vocational-behavior)
 - [Leadership Quarterly (LQ)](https://www.journals.elsevier.com/the-leadership-quarterly)
 - [Organizational Behavior and Human Decision Processes (OBHDP)](https://www.journals.elsevier.com/organizational-behavior-and-human-decision-processes/)
-- [Personnel Assessment and Decisions (PAD) **(Open Source)**](https://scholarworks.bgsu.edu/pad/)
+- [Personnel Assessment and Decisions (PAD; Open Source)](https://scholarworks.bgsu.edu/pad/)
 - [Personnel Psychology (PPsych)](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-6570)
 - [Psychological Bulletin (PsychBull)](http://www.apa.org/pubs/journals/bul/)
-  
+    
 ## Assessments
 - [International Personality Item Pool (IPIP)](https://ipip.ori.org/)
 - [O\*NET Vocational Interest Profiler (Vocational Interest)](https://www.siop.org/Research-Publications/SIOP-SHRM-White-Papers)
