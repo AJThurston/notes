@@ -1,6 +1,6 @@
 ## Introduction & History
 
-Aamodt, M. (2010). Thomas Alva Edison: An I/O psychologist? _The Industrial-Organizational Psychologist_, _48_, 47–53.
+Aamodt, M. (2010). Thomas Alva Edison: An I/O psychologist? _The Industrial-__Organizational Psychologist_, _48_, 47–53.
 
 Feynman, R. P. (1955). The value of science. _Engineering and Science_, _19_(3), 13-15.
 
@@ -112,6 +112,8 @@ Carroll, J. B. (1993). Human Cognitive Abilities: A Survey of Factor-Analytic St
 
 Chiaburu, D. S., Oh, I.-S., Berry, C. M., Li, N., & Gardner, R. G. (2011). The five-factor model of personality traits and organizational citizenship behaviors: A meta-analysis. _Journal of Applied Psychology_, _96_(6), 1140–1166. [https://doi.org/10.1037/a0024004](https://doi.org/10.1037/a0024004)
 
+Holland, J. L. (1959). A theory of vocational choice. _Journal of Counseling Psychology_, _6_(1), 35–45. [https://doi.org/10.1037/h0040767](https://doi.org/10.1037/h0040767)
+
 Hunter, J. E. (1986). Cognitive ability, cognitive aptitudes, job knowledge, and job performance. _Journal of Vocational Behavior_, _29_(3), 340–362. [https://doi.org/10.1016/0001-8791(86)90013-8](https://doi.org/10.1016/0001-8791(86)90013-8)
 
 Hurtz, G. M., & Donovan, J. J. (2000). Personality and job performance: The Big Five revisited. _Journal of Applied Psychology_, _85_(6), 869–879. [https://doi.org/10.1037/0021-9010.85.6.869](https://doi.org/10.1037/0021-9010.85.6.869)
@@ -192,6 +194,8 @@ Binning, J. F., & Barrett, G. V. (1989). Validity of Personnel Decisions: A Conc
 
 Cable, D. M., & Judge, T. A. (1996). Person–Organization Fit, Job Choice Decisions, and Organizational Entry. _Organizational Behavior and Human Decision Processes_, _67_(3), 294–311. [https://doi.org/10.1006/obhd.1996.0081](https://doi.org/10.1006/obhd.1996.0081)
 
+Cascio, W., & Boudreau, J. (2010). Investing in People: Financial Impact of Human Resource Initiatives. FT Press.
+
 Grove, W. M., Zald, D. H., Lebow, B. S., Snitz, B. E., & Nelson, C. (2000). Clinical versus mechanical prediction: A meta-analysis. _Psychological Assessment_, _12_(1), 19–30. [https://doi.org/10.1037/1040-3590.12.1.19](https://doi.org/10.1037/1040-3590.12.1.19)
 
 Guion, R. M., & Gottier, R. F. (1965). Validity of personality measures in personnel selection. _Personnel Psychology_, _18_, 135–164. [https://doi.org/10.1111/j.1744-6570.1965.tb00273.x](https://doi.org/10.1111/j.1744-6570.1965.tb00273.x)
@@ -266,11 +270,17 @@ Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on per
 
 Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. _American Psychologist_, _57_(9), 705–717. [https://doi.org/10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)
 
+Luthans, F., Avolio, B. J., Avey, J. B., & Norman, S. M. (2007). Positive Psychological Capital: Measurement and Relationship with Performance and Satisfaction. _Personnel Psychology_, _60_(3), 541–572. [https://doi.org/10.1111/j.1744-6570.2007.00083.x](https://doi.org/10.1111/j.1744-6570.2007.00083.x)
+
 Meyer, J. P., Stanley, D. J., Herscovitch, L., & Topolnytsky, L. (2002). Affective, Continuance, and Normative Commitment to the Organization: A Meta-analysis of Antecedents, Correlates, and Consequences. _Journal of Vocational Behavior_, _61_(1), 20–52. [https://doi.org/10.1006/jvbe.2001.1842](https://doi.org/10.1006/jvbe.2001.1842)
 
 Salancik, G. R., & Pfeffer, J. (1977). An Examination of Need-Satisfaction Models of Job Attitudes. _Administrative Science Quarterly_, _22_(3), 427–456. [https://doi.org/10.2307/2392182](https://doi.org/10.2307/2392182)
 
 ## Leadership & Teams
+
+Antonakis, J., Avolio, B. J., & Sivasubramaniam, N. (2003). Context and leadership: An examination of the nine-factor full-range leadership theory using the Multifactor Leadership Questionnaire. _The Leadership Quarterly_, _14_(3), 261–295. [https://doi.org/10.1016/S1048-9843(03)00030-4](https://doi.org/10.1016/S1048-9843(03)00030-4)
+
+Bass, B. M. (1985). _Leadership and performance beyond expectations_. Free Press.
 
 Beal, D. J., Cohen, R. R., Burke, M. J., & McLendon, C. L. (2003). Cohesion and Performance in Groups: A Meta-Analytic Clarification of Construct Relations. _Journal of Applied Psychology_, _88_(6), 989–1004. [https://doi.org/10.1037/0021-9010.88.6.989](https://doi.org/10.1037/0021-9010.88.6.989)
 
@@ -282,7 +292,11 @@ Derue, D. S., Nahrgang, J. D., Wellman, N., & Humphrey, S. E. (2011). Trait and 
 
 Eagly, A. H., & Johnson, B. T. (1990). Gender and leadership style: A meta-analysis. _Psychological Bulletin_, _108_(2), 233–256. [https://doi.org/10.1037/0033-2909.108.2.233](https://doi.org/10.1037/0033-2909.108.2.233)
 
+Hogan, R., Curphy, G. J., & Hogan, J. (1994). What We Know About Leadership. _American Psychologist_.
+
 Judge, T. A., Bono, J. E., Ilies, R., & Gerhardt, M. W. (2002). Personality and leadership: A qualitative and quantitative review. _Journal of Applied Psychology_, _87_(4), 765–780. [https://doi.org/10.1037/0021-9010.87.4.765](https://doi.org/10.1037/0021-9010.87.4.765)
+
+Judge, T. A., & Piccolo, R. F. (2004). Transformational and Transactional Leadership: A Meta-Analytic Test of Their Relative Validity. _Journal of Applied Psychology_, _89_(5), 755–768. [https://doi.org/10.1037/0021-9010.89.5.755](https://doi.org/10.1037/0021-9010.89.5.755)
 
 Judge, T. A., Piccolo, R. F., & Ilies, R. (2004). The Forgotten Ones? The Validity of Consideration and Initiating Structure in Leadership Research. _Journal of Applied Psychology_, _89_(1), 36–51. [https://doi.org/10.1037/0021-9010.89.1.36](https://doi.org/10.1037/0021-9010.89.1.36)
 
