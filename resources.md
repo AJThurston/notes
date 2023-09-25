@@ -11,6 +11,7 @@
 - [International Journal of Selection and Assessment (IJSA)](https://www.wiley.com/en-us/International+Journal+of+Selection+and+Assessment-p-9780JRNL60954)
 - [Journal of Applied Psychology (JAP)](http://www.apa.org/pubs/journals/apl/)
 - [Journal of Business and Psychology (JBP)](https://link.springer.com/journal/10869)
+- [Journal of Career Development](https://journals.sagepub.com/home/jcd)
 - [Journal of Management (JOM)](https://journals.sagepub.com/home/jom)
 - [Journal of Occupational and Organizational Psychology (JOOP)](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2044-8325)
 - [Journal of Occupational Health Psychology (JOHP)](http://www.apa.org/pubs/journals/ocp/index.aspx)
@@ -21,7 +22,7 @@
 - [Personnel Assessment and Decisions (PAD; Open Source)](https://scholarworks.bgsu.edu/pad/)
 - [Personnel Psychology (PPsych)](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-6570)
 - [Psychological Bulletin (PsychBull)](http://www.apa.org/pubs/journals/bul/)
-    
+
 ## Assessments
 - [International Personality Item Pool (IPIP)](https://ipip.ori.org/)
 - [O\*NET Vocational Interest Profiler (Vocational Interest)](https://www.siop.org/Research-Publications/SIOP-SHRM-White-Papers)
@@ -36,10 +37,20 @@
 - [Society for Occupational Health Psychology](https://sohp-online.org/)
 - [Society for Military Psychology (APA Div. 19)](https://www.militarypsych.org/)
 - [International Military Testing Association (IMTA)](http://www.imta.info/home.aspx)
-  
-## Blogs - Corporate
+
+## Blogs
+### Business Schools
+- [Chicago Booth Review](https://www.chicagobooth.edu/review)
+- [Harvard Business Review](https://hbr.org/)
+- [HBR Ascend](https://hbr.org/ascend)
+- [MIT Sloan Management Review](https://sloanreview.mit.edu/)
+- [Insights by Stanford Business](https://www.gsb.stanford.edu/insights)
+- [Knowledge at Wharton](https://knowledge.wharton.upenn.edu/)
+### Corporate
 - [BetterUp Blog](https://www.betterup.com/blog)
 - [Coursera Professional Development](https://www.coursera.org/articles/category/professional-development)
+- [HR Analytics 101 (R Tutorials)](https://hranalytics101.com/our-blog/)
+- [ICF Insights (Workforce)](https://www.icf.com/insights?topics=workforce)
 - [Industrial/Organizational Solutions White Papers](https://iosolutions.com/white-papers/)
 - [Inc.com Hiring](https://www.inc.com/hiring)
 - [Indeed LEAD](https://www.indeed.com/lead/talent-management)
@@ -47,9 +58,8 @@
 - [McKinsey & Co. Blog](https://www.mckinsey.com/about-us/new-at-mckinsey-blog)
 - [Qualtrics Employee Experience](https://www.qualtrics.com/blog/employee-experience/)
 - [Talent Metrics Consulting Blog](https://www.talentmetrics.io/blog)
-  
-## Blogs - Personal
-- [AJ Thurston's Blog](https://medium.com/@AJThurston)
+### Personal
+- [AJ Thurston's Substack](https://substack.com/@AJThurston)
 - [I/O at Work](http://www.ioatwork.com/)
 - [Jacob Kaplan-Moss' Blog (Jacobian)](https://jacobian.org/)
 - [Kristoffer Magnussen's Blog (Statistics Blog)](https://rpsychologist.com/)
@@ -92,9 +102,10 @@
 - Zedeck, S. E. (2011). APA handbook of industrial and organizational psychology.
   
 ## Podcasts
-- [The I-O Podcast](http://www.siop.org/podcasts/)
 - [Department 12 Podcast](http://department12.com)
 - [Healthy Work Podcast](https://healthyworkpodcast.com/)
+- [The Indigo Podcast w. Ben Baran](https://indigopodcast.libsyn.com/)
+- [The I-O Podcast](http://www.siop.org/podcasts/)
 - [Quantitude Podcast](https://quantitudepod.org/)
 - [Workr Beeing](https://workrbeeing.com/podcast/)
 - [WorkLife with Adam Grant](https://www.ted.com/podcasts/worklife)
@@ -103,8 +114,6 @@
 - Fast Company
 - Forbes Insights
 - Fortune
-- Harvard Business Review
-- [MIT Sloan Management Review](https://sloanreview.mit.edu/)
 - [Science Magazine Careers](https://www.science.org/careers)
   
 ## Scholarly AI Tools
@@ -124,6 +133,7 @@
 - Murphy, K. R. (1996). Individual Differences and Behavior in Organizations. Jossey-Bass.
   
 ## Textbooks - Undergraduate Level
+- [Aguinis, H. (2024). _Research methodology: Best practices for rigorous, credible, and impactful research_. SAGE Publications](https://us.sagepub.com/en-us/nam/research-methodology/book280088)
 - [Aamodt, M. G. (2022). _Industrial/organizational psychology: An applied approach_ (9th edition). Cengage Learning.](https://www.amazon.com/Industrial-Organizational-Psychology-Applied-Approach/dp/0357658345)
 - [Landy, F. J., & Conte, J. M. (2016). _Work in the 21st century: An introduction to industrial and organizational psychology_ (6th edition). John Wiley & Sons.](https://www.amazon.com/Work-21st-Century-Introduction-Organizational/dp/1119493412)
 - [Levy, P. (2019). _Industrial/organizational psychology_ (6th edition). Macmillan.](https://www.amazon.com/Industrial-Organizational-Psychology-Understanding-Workplace-dp-1319107397/dp/1319107397)
@@ -133,9 +143,11 @@
 - [Truxillo, D. M., Bauer, T. N., & Erdogan, B. (2021). _Psychology and Work: An Introduction to Industrial and Organizational Psychology_ (2nd edition). Routledge.](https://www.amazon.com/Psychology-Work-Introduction-Industrial-Organizational-dp-0367151286/dp/0367151286)
   
 ## Additional Resources
+- [O\*NET: Occupational Information Network](https://www.onetonline.org/)
 - [MetaBUS: Cloud based research synthesis platform](http://metabus.org/)
 - [Rogue Scholar: Registering scientific content with DOI](https://rogue-scholar.org/)
 - [Subreddit: r/IOPsychology](https://www.reddit.com/r/IOPsychology/)
+- [SIOP Bridge Builders Links](https://linktr.ee/SIOP_BB)
 - [SIOP Student Resources](https://www.siop.org/Membership/Students)
 - [Twitter: @SIOPtweets (Official account)](https://twitter.com/sioptweets)
 - [YouTube: SIOP (official)](https://www.youtube.com/user/SIOPofficial)
