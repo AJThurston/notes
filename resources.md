@@ -187,4 +187,5 @@
 
 ---
 Thanks so much for taking a look at my resources list! If you want to support the maintenance of this list and future projects, please feel free to buy me a coffee!
+
 <a href="https://www.buymeacoffee.com/ajthurston" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
