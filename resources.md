@@ -1,1 +1,1 @@
-This list of resources has moved and is maintained/updated on my personal website: (ajthurston.com/resources)[https://ajthurston.com/resources]
+This list of resources has moved and is maintained/updated on my personal website: [ajthurston.com/resources](https://ajthurston.com/resources)
